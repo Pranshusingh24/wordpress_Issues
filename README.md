@@ -1,2 +1,2 @@
 # wordpress_Issues
-I was facing this types issues learn i'm thankfull if help you thanks
+I was facing this type issue learn I'm thankful if you could help thanks.
