@@ -1,0 +1,14 @@
+/* This is a Custom WordPress Vertical Scrollbar */
+/* Style the scrollbar track */
+::-webkit-scrollbar {
+    width: 0.9vw; /* Width of the vertical scrollbar */
+    height: 0.9vw; /* Height of the horizontal scrollbar (optional) */
+    background: #f1f1f1; /* Track color */
+}
+
+/* Style the scrollbar handle */
+::-webkit-scrollbar-thumb {
+    background: #fa7169; /* Handle color */
+    border-radius: 20px; /* Roundness of the handle */
+    border: 2px solid #f1f1f1; /* Optional: Adds a border around the handle for better visibility */
+}
